@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    color: tomato;
+}
+
+button {
+    width: 180px;
+    height: 90px;
+    border-radius: 70px;
+    margin: 50px;
+    font-size: 26px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid tomato;
+}
